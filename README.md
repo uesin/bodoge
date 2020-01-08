@@ -8,6 +8,7 @@
 |email|string|null: false,unique: true|
 |password|string|null: false|
 |icon|text||
+|bodoge|text||
 |introduce|text|limit: 10000|
 
 ### Association
